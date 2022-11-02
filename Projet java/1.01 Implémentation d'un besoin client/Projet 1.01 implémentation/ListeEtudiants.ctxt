@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ListeEtudiants
+comment1.params=pfListe
+comment1.target=int\ nbEtudiant(java.lang.String[][])
+comment1.text=\ donne\ le\ nombre\ d\u2019\u00E9tudiants\ de\ la\ liste\ pfListe\r\n@param\ \ \ pfListe\ IN\ tableau\ contenant\ la\ liste\ d'\u00E9tudiants\ nom,\ prenom,\ \ \r\n@return\ le\ nombre\ d\u2019\u00E9tudiants\ de\ la\ liste\r\n
+comment2.params=pfFileName\ pfDelimiter
+comment2.target=java.lang.String[][]\ getListe(java.lang.String,\ java.lang.String)
+comment2.text=\ charge\ dans\ un\ tableau\ la\ liste\ des\ \u00E9tudiants\r\n@param\ \ \ pfFileName\ IN\ le\ nom\ du\ fichier\ \u00E0\ lire\r\n@param\ \ \ le\ d\u00E9limiteur\ de\ champs\ dans\ le\ fichier\ csv\r\n@return\ le\ tableau\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

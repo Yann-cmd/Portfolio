@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=pfBorneInf\ pfBorneSup\ pfMessage
+comment1.target=int\ saisieIntC(int,\ int,\ java.lang.String)
+comment1.text=\ \ permet\ de\ retourner\ une\ valeur\ entiere\ saisie\ au\ clavier\ comprise\ entre\ pfBorneInf\ et\ pfBorneSup\r\n@param\ pfBorneSup\ In\ la\ borne\ sup\r\n@param\ pfBorneInf\ In\ la\ borne\ inf\r\n@param\ pfMessage\ In\ message\ \u00E0\ afficher\r\n@return\ valeur\ entiere\ comprise\ entre\ pfBorneInf\ et\ pfBorneSup\r\n
+comment2.params=pfDetu\ pfnbAppels
+comment2.target=int\ choixAleatoire(int,\ int[])
+comment2.text=\ S\u00E9lection\ al\u00E9atoire\ d'un\ \u00E9l\u00E8ve.\ Celui\ ci\ ne\ peut\ \u00EAtre\ \r\n\ \r\n\ @param\ IN\ \ pfDetu\ \:correspond\ \u00E0\ l'indice\ du\ dernier\ etudiant\ appele\r\n\ @param\ IN/OUT\ pfnbAppels\ \:\ tableau\ de\ compteur\ de\ nombre\ d'appel\r\n\ @return\ nouveau\ \:\ indice\ de\ l'\u00E9tudiant\ s\u00E9lectionn\u00E9\ \r\n
+comment3.params=
+comment3.target=int\ tirage()
+comment4.params=IdEtu
+comment4.target=void\ afficherEtudiant(int)
+comment5.params=
+comment5.target=void\ afficherPromo()
+comment6.params=
+comment6.target=void\ testMenu()
+comment6.text=\ \ affiche\ le\ menu\ G\u00E9n\u00E9ral\ et\ ex\u00E9cute\ les\ choix...\r\n
+comment7.params=arguments
+comment7.target=void\ main(java.lang.String[])
+numComments=8
