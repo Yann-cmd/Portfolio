@@ -36,6 +36,9 @@ Bonne lecture !
 ## Projet java
 ## Projet Base de donnée
 ## Projet Dev Web
+Projet 1.06 Envirronnement écologique :
+...
+Lien vers le dépot : link:src/main/java/eraser/Eraser.java[ici]
 ## Projet Admin Système
 ## Projet Gestion de projet
 ## Travail d'équipe
