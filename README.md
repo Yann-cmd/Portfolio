@@ -13,7 +13,7 @@
 - Bonjour, je m'appelle yann guillevic, je suis en deuxième année de B.U.T informatique à l'IUT de Blagnac et voici mon dépot portfolio avec l'ensemble des mes projets ainsi que mon CV ! 
 C'est projets sont, en quelque sorte, une preuve des mes compétences et ce dépot permettra à ceux qui le liront d'en apprendre plus sur ce qu'on peut faire dans ces différents langages.
 
-Compétences acquises grâce aux projets :
+<b>Compétences acquises grâce aux projets :</b>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -25,7 +25,7 @@ Compétences acquises grâce aux projets :
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="python" width="40" height="40"/>&nbsp;
 </p>
 
-Logiciels utilisés :
+<b>Logiciels utilisés :</b>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="vscode" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@ Logiciels utilisés :
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>&nbsp;
 </p>
 
-Systèmes :
+<b>Systèmes :</b>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
