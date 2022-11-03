@@ -57,6 +57,7 @@ Projet 1.06 Envirronnement écologique :
 ...
 
 - link:Projet%20Developpement%20Web/1.06%20Environnement%20écologique[Lien vers le dépot]
+- <a href="https://github.com/devicons/devicon/tree/master/icons">svg folder</a>
 
 ## Projet Admin Système
 ## Projet Gestion de projet
