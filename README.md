@@ -61,9 +61,11 @@ Ce projet en bînome consistait à :
   - Créer une page web "de garde" comparant ces entreprises sur certains points
   - Faire en sorte que le site web entier soit éco-concu
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Developpement%20Web/1.06%20Environnement%20%C3%A9cologique">Lien vers le dépot</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Developpement%20Web/1.06%20Environnement%20%C3%A9cologique">Lien vers le dépot (fiche du projet)</a>
 
 <a href="https://yann-cmd.github.io/sitewebsae6.github.io/">Lien du site réalisé</a>
+
+<a href="https://github.com/Yann-cmd/sitewebsae6.github.io">Lien du dépot github avec le code</a>
 
 ## Projet Admin Système
 ## Projet Gestion de projet
