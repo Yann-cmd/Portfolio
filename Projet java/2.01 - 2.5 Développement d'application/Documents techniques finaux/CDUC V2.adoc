@@ -19,6 +19,7 @@ Cette banque est composée de 100 Agences où notre application sera déployée
 
 -- : -> réalisation du CDUC v2 et développeur de l'Application +
 Yann : -> réalisation du GANTT et développeur de l'application +
+
 -- : -> réalisation des use-cases et développeur de l'application
 
 ### Organisation de l'équipe 
