@@ -6,7 +6,7 @@
 
 Version de l’application : 1 +
 Date : Semaine 20 +
-Equipe : -- / -- / --
+Equipe : Christopher / Ruben / Yaan +
 Client : BankUniv +
 Projet : Daily Bank +
 
