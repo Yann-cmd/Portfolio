@@ -1,4 +1,4 @@
-# Mon Portfolio
+# Mon Portfolio (en cours d'amélioration - opérationnel prévu le 06/11/2022)
 ## Sommaire
 
  - [Présentation](#Présentation)
