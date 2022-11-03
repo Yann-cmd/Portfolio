@@ -53,7 +53,7 @@ Pour finir, vous pouvez me contacter sur les différentes plateformes ci-dessous
 ## Projet java
 ## Projet Base de donnée
 ## Projet Dev Web
-<b>Projet 1.06 Envirronnement écologique</b> 
+<b>Projet 1.06 Environnement écologique</b> 
 
 Ce projet en bînome consistait à : 
   - choisir 2 entreprises dans la région Occitanie et qui étaient également dans la GreenIT
