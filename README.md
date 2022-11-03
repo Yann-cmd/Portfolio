@@ -52,6 +52,19 @@ C'est projets sont, en quelque sorte, une preuve des mes compétences et ce dép
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/yann-guillevic-876769252/)
 
 ## Projet java
+<b>Projet 1.01 Implémentation d'un besoin client</b>
+
+Ce projet en bînome consistait à développer une petite application en java qui permet de tirer au sort un élève, selon quelques spécificitées, parmi une liste de nom fournie. Cette application devait aussi fonctionner si on l'a lancé en ligne de commande.
+
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/1.01%20Impl%C3%A9mentation%20d'un%20besoin%20client">Lien vers le dépot (fiche et code du projet)</a>
+
+<b>Projet 2.01-2.05 Développement d'application</b>
+
+Ce projet, réalisé dans un groupe de 4 personnes, consistait à développer une application bancaire avec un début de code fournie. La partie développement (2.01) se centrait surtout sur le développement des fonctionnalités voulu et la partie gestion de projet (2.05) était centrée sur l'élaboration de différents documents (voir fiche du projet). Nous avons utilisé les méthodes agiles pour ce projet notamment la méthode SCRUM.
+
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/2.01%20-%202.5%20D%C3%A9veloppement%20d'application">Lien vers le dépot (fiche du projet)</a>
+Le code de l'application n'est pas disponible.
+
 ## Projet Base de donnée
 ## Projet Dev Web
 <b>Projet 1.06 Environnement écologique</b> 
