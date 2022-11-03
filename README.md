@@ -54,9 +54,13 @@ Pour finir, vous pouvez me contacter sur les différentes plateformes ci-dessous
 ## Projet Base de donnée
 ## Projet Dev Web
 Projet 1.06 Envirronnement écologique :
-...
 
-- link:Projet%20Developpement%20Web/1.06%20Environnement%20écologique[Lien vers le dépot]
+Ce projet en bînome consistait à : 
+  - choisir 2 entreprises dans la région Occitanie et qui étaient également dans la GreenIT
+  - Créer une page web par entreprise contenant des informations spécifiques
+  - Créer une page web "de garde" comparant ces entreprises sur certains points
+  - Faire en sorteque le site web entier soit éco-concu
+
 - <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Developpement%20Web/1.06%20Environnement%20%C3%A9cologique">Lien vers le dépot</a>
 
 ## Projet Admin Système
