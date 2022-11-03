@@ -48,7 +48,7 @@ C'est projets sont, en quelque sorte, une preuve des mes compétences et ce dép
 
 Pour finir, vous pouvez me contacter sur les différentes plateformes ci-dessous:
 
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/yann-guillevic/)
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/yann-guillevic-876769252/)
 
 ## Projet java
 ## Projet Base de donnée
