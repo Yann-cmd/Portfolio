@@ -46,7 +46,7 @@ C'est projets sont, en quelque sorte, une preuve des mes compétences et ce dép
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="gitlab" width="40" height="40"/>&nbsp;
 </p>
 
-Pour finir, vous pouvez me contacter sur les différentes plateformes ci-dessous:
+- Pour finir, vous pouvez me contacter sur les différentes plateformes ci-dessous:
 
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/yann-guillevic-876769252/)
 
