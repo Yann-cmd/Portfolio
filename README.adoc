@@ -39,7 +39,7 @@ Bonne lecture !
 Projet 1.06 Envirronnement écologique :
 ...
 
-- link:Projet Developpement Web/[Lien vers le dépot]
+- link:main/Projet%20Developpement%20Web/1.06%20Environnement%20écologique[Lien vers le dépot]
 
 ## Projet Admin Système
 ## Projet Gestion de projet
