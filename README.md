@@ -2,12 +2,12 @@
 ## Sommaire
 
  - [Présentation](#Présentation)
- - [Projet java](#Projet java)
- - [Projet Base de donnée](#Projet Base de donnée)
- - [Projet Dev Web](#Projet Dev Web)
- - [Projet Admin Système](#Projet Admin Système)
- - [Projet Gestion de projet](#Projet Gestion de projet)
- - [Travail d'équipe](#Travail d'équipe)
+ - [Projet java](#Projet-java)
+ - [Projet Base de donnée](#Projet-Base-de-donnée)
+ - [Projet Dev Web](#Projet-Dev-Web)
+ - [Projet Admin Système](#Projet-Admin-Système)
+ - [Projet Gestion de projet](#Projet-Gestion-de-projet)
+ - [Travail d'équipe](#Travail-d'équipe)
 
 ## Présentation
 - Bonjour, je m'appelle yann guillevic, je suis en deuxième année de B.U.T informatique à l'IUT de Blagnac et voici mon dépot portfolio avec l'ensemble des mes projets ainsi que mon CV ! 
