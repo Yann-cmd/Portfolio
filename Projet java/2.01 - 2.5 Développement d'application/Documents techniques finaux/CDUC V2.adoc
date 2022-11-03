@@ -12,13 +12,13 @@ Cette banque est composée de 100 Agences où notre application sera déployée
 
 ## Personne(s) consultée(s)
 * Rubén Longèque
-* Guillevic Yann 
+* Yann Guillevic
 * Christopher Marie-Angélique
 
 ### Rôle(s)
 
 Rubén Longèque : -> réalisation du CDUC v2 et développeur de l'Application +
-Yann : -> réalisation du GANTT et développeur de l'application +
+Yann Guillevic : -> réalisation du GANTT et développeur de l'application +
 Christopher Marie-Angélique : -> réalisation des use-cases et développeur de l'application
 
 ### Organisation de l'équipe 
