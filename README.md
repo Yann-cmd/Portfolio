@@ -1,32 +1,13 @@
 = Mon Portfolio
-:icons: font
-:numbered:
-:toc: left
-:toc-title: Sommaire
-:toclevels: 1
-// Antora 
-// => traduction automatique fr/uk
-// => niveau de guidage
+## Sommaire
 
-// Specific to GitHub
-ifdef::env-github[]
-:toc:
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-:graduation-icon: :mortar_board:
-:cogs-icon: :writing_hand:
-:beginner: :arrow_right:
-:advanced: :arrow_upper_right:
-:expert: :arrow_up:
-:dollar: :dollar:
-:git: link:{giturl}[git]
-:us-icon: :us:
-:fr-icon: :fr:
-endif::[]
-
+ - [Présentation](#Présentation)
+ - [Projet java](#Projet java)
+ - [Projet Base de donnée](#Projet Base de donnée)
+ - [Projet Dev Web](#Projet Dev Web)
+ - [Projet Admin Système](#Projet Admin Système)
+ - [Projet Gestion de projet](#Projet Gestion de projet)
+ - [Travail d'équipe](#Travail d'équipe)
 
 ## Présentation
 - Bonjour, je m'appelle yann guillevic, je suis en deuxième année de B.U.T informatique à l'IUT de Blagnac et voici mon dépot portfolio avec l'ensemble des mes projets ainsi que mon CV ! 
