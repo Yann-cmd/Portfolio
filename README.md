@@ -54,7 +54,7 @@ Ces projets sont, en quelque sorte, une preuve des mes compétences et ce dépot
 ## Projet java
 <b>Projet 1.01 Implémentation d'un besoin client</b>
 
-Ce projet en bînome consistait à développer une petite application en java qui permet de tirer au sort un élève, selon quelques spécificitées, parmi une liste de nom fournie. Cette application devait aussi fonctionner si on l'a lancé en ligne de commande.
+Ce projet en binôme consistait à développer une petite application en java qui permet de tirer au sort un élève, selon quelques spécificitées, parmi une liste de nom fournie. Cette application devait aussi fonctionner si on l'a lancé en ligne de commande.
 
 <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/1.01%20Impl%C3%A9mentation%20d'un%20besoin%20client">Lien vers le dépot (dossier portfolio et code du projet)</a>
 
@@ -69,21 +69,21 @@ Le code de l'application n'est pas disponible.
 ## Projet Base de donnée
 <b>Projet 1.04 Base de donnée</b>
 
-Ce projet en bînome consistait à créer, modéliser et remplir une base de donnée avec un bon de commande fournie. Il était demandé plusieurs schémas et scripts (voir dossier portfolio du projet) et nous devions également y présenter des requêtes.
+Ce projet en binôme consistait à créer, modéliser et remplir une base de donnée avec un bon de commande fournie. Il était demandé plusieurs schémas et scripts (voir dossier portfolio du projet) et nous devions également y présenter des requêtes.
 
 <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/1.4%20Base%20de%20donn%C3%A9e">Lien vers le dépot (dossier portfolio)</a>
 
 <b>Projet 2.04 Exploitation d'une base de donnée</b>
 
-Ce projet en bînome consitait à exploiter une base de donnée fournie. Ce projet à été divisé en 4 parties distinctes dans lesquelles il fallait rendre à chaque fois des livrables spécifiques (voir dossier portfolio du projet).
+Ce projet en binôme consitait à exploiter une base de donnée fournie. Ce projet à été divisé en 4 parties distinctes dans lesquelles il fallait rendre à chaque fois des livrables spécifiques (voir dossier portfolio du projet).
 
 <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/2.4%20Exploitation%20d'une%20base%20de%20donn%C3%A9e">Lien vers le dépot (dossier portfolio)</a>
 
 ## Projet Dev Web
 <b>Projet 1.06 Environnement écologique</b> 
 
-Ce projet en bînome consistait à : 
-  - choisir 2 entreprises dans la région Occitanie et qui étaient également dans la GreenIT
+Ce projet en binôme consistait à : 
+  - Choisir 2 entreprises dans la région Occitanie et qui étaient également dans la GreenIT
   - Créer une page web par entreprise contenant des informations spécifiques
   - Créer une page web "de garde" comparant ces entreprises sur certains points
   - Faire en sorte que le site web entier soit éco-concu
@@ -95,6 +95,22 @@ Ce projet en bînome consistait à :
 <a href="https://github.com/Yann-cmd/sitewebsae6.github.io">Lien du dépot github avec le code</a>
 
 ## Projet Admin Système
+<b>Projet 1.03 Machine virtuelle Linux</b>
+
+Ce projet en bînome consistait à :
+  - Implémenter une machine virtuelle Linux (ou autre distribution)
+  - Justifier ce choix ainsi que les paramêtres de la VM
+  - Répondre aux exigences demandées sur l'utilisation de logiciel
+  - Réaliser un oral explicatif et présenter un script réalisant une tâche demandé (voir dossier portfolio)
+  
+ <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20administration%20syst%C3%A8me/1.3%20Machine%20virtuelle%20Linux">Lien vers le dépot (dossier portfolio)</a>
+
+<b>Projet 2.03 Installation de services réseaux</b>
+
+Ce projet en binôme consistait à choisir une distribution Linux et utiliser un serveur fournie pour installer un service d'hébergement HTTP et y héberger notre site web de la SAE 1.06. 3 mission devaient être réalisées et 2 livrables devaient être fournis. La troisème mission nous à mobiliser des compétences en anglais (voir dossier portfolio).
+
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20administration%20syst%C3%A8me/2.3%20Installation%20de%20service%20r%C3%A9seaux">Lien vers le dépot (dossier portfolio)</a>
+
 ## Projet Gestion de projet
 ## Travail d'équipe
 - (En cours d'amélioration)
