@@ -67,7 +67,7 @@ Ce projet, réalisé dans un groupe de 3 ou 4 personnes, consistait à développ
 Le code de l'application n'est pas disponible.
 
 ## Projet Base de donnée
-<b>Projet 1.04 Base de donnée</b>
+<b>Projet 1.04 Base de donnée</b> 
 
 Ce projet en binôme consistait à créer, modéliser et remplir une base de donnée avec un bon de commande fournie. Il était demandé plusieurs schémas et scripts (voir dossier portfolio du projet) et nous devions également y présenter des requêtes.
 
