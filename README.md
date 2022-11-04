@@ -56,27 +56,27 @@ Ces projets sont, en quelque sorte, une preuve des mes compétences et ce dépot
 
 Ce projet en bînome consistait à développer une petite application en java qui permet de tirer au sort un élève, selon quelques spécificitées, parmi une liste de nom fournie. Cette application devait aussi fonctionner si on l'a lancé en ligne de commande.
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/1.01%20Impl%C3%A9mentation%20d'un%20besoin%20client">Lien vers le dépot (fiche et code du projet)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/1.01%20Impl%C3%A9mentation%20d'un%20besoin%20client">Lien vers le dépot (dossier portfolio et code du projet)</a>
 
 <b>Projet 2.01-2.05 Développement d'application</b>
 
-Ce projet, réalisé dans un groupe de 3 ou 4 personnes, consistait à développer une application bancaire avec un début de code fournie. La partie développement (2.01) se centrait surtout sur le développement des fonctionnalités voulu et la partie gestion de projet (2.05) était centrée sur l'élaboration de différents documents (voir fiche du projet). Nous avons utilisé les méthodes agiles pour ce projet notamment la méthode SCRUM.
+Ce projet, réalisé dans un groupe de 3 ou 4 personnes, consistait à développer une application bancaire avec un début de code fournie. La partie développement (2.01) se centrait surtout sur le développement des fonctionnalités voulu et la partie gestion de projet (2.05) était centrée sur l'élaboration de différents documents (voir dossier portfolio du projet). Nous avons utilisé les méthodes agiles pour ce projet notamment la méthode SCRUM.
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/2.01%20-%202.5%20D%C3%A9veloppement%20d'application">Lien vers le dépot (fiche du projet)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/2.01%20-%202.5%20D%C3%A9veloppement%20d'application">Lien vers le dépot (dossier portfolio)</a>
 Le code de l'application n'est pas disponible.
 
 ## Projet Base de donnée
 <b>Projet 1.04 Base de donnée</b>
 
-Ce projet en bînome consistait à créer, modéliser et remplir une base de donnée avec un bon de commande fournie. Il était demandé plusieurs schémas et scripts (voir fiche du projet) et nous devions également y présenter des requêtes.
+Ce projet en bînome consistait à créer, modéliser et remplir une base de donnée avec un bon de commande fournie. Il était demandé plusieurs schémas et scripts (voir dossier portfolio du projet) et nous devions également y présenter des requêtes.
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/1.4%20Base%20de%20donn%C3%A9e">Lien vers le dépot (fiche du projet)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/1.4%20Base%20de%20donn%C3%A9e">Lien vers le dépot (dossier portfolio)</a>
 
 <b>Projet 2.04 Exploitation d'une base de donnée</b>
 
-Ce projet en bînome consitait à exploiter une base de donnée fournie. Ce projet à été divisé en 4 parties distinctes dans lesquelles il fallait rendre à chaque fois des livrables spécifiques (voir fiche du projet).
+Ce projet en bînome consitait à exploiter une base de donnée fournie. Ce projet à été divisé en 4 parties distinctes dans lesquelles il fallait rendre à chaque fois des livrables spécifiques (voir dossier portfolio du projet).
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/2.4%20Exploitation%20d'une%20base%20de%20donn%C3%A9e">Lien vers le dépot (fiche du projet)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/2.4%20Exploitation%20d'une%20base%20de%20donn%C3%A9e">Lien vers le dépot (dossier portfolio)</a>
 
 ## Projet Dev Web
 <b>Projet 1.06 Environnement écologique</b> 
@@ -87,7 +87,7 @@ Ce projet en bînome consistait à :
   - Créer une page web "de garde" comparant ces entreprises sur certains points
   - Faire en sorte que le site web entier soit éco-concu
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Developpement%20Web/1.06%20Environnement%20%C3%A9cologique">Lien vers le dépot (fiche du projet)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Developpement%20Web/1.06%20Environnement%20%C3%A9cologique">Lien vers le dépot (dossier portfolio)</a>
 
 <a href="https://yann-cmd.github.io/sitewebsae6.github.io/">Lien du site réalisé</a>
 
