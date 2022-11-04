@@ -11,7 +11,7 @@
 
 ## Présentation
 - Bonjour, je m'appelle yann guillevic, je suis en deuxième année de B.U.T informatique à l'IUT de Blagnac et voici mon dépot portfolio avec l'ensemble des mes projets ainsi que mon CV ! 
-C'est projets sont, en quelque sorte, une preuve des mes compétences et ce dépot permettra à ceux qui le liront d'en apprendre plus sur ce qu'on peut faire dans ces différents langages.
+Ces projets sont, en quelque sorte, une preuve des mes compétences et ce dépot permettra à ceux qui le liront d'en apprendre plus sur ce qu'on peut faire dans ces différents langages.
 
 <b>Compétences acquises grâce aux projets :</b>
 <p>
