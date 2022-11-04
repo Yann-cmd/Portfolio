@@ -63,6 +63,7 @@ Ce projet en bînome consistait à développer une petite application en java qu
 Ce projet, réalisé dans un groupe de 3 ou 4 personnes, consistait à développer une application bancaire avec un début de code fournie. La partie développement (2.01) se centrait surtout sur le développement des fonctionnalités voulu et la partie gestion de projet (2.05) était centrée sur l'élaboration de différents documents (voir dossier portfolio du projet). Nous avons utilisé les méthodes agiles pour ce projet notamment la méthode SCRUM.
 
 <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/2.01%20-%202.5%20D%C3%A9veloppement%20d'application">Lien vers le dépot (dossier portfolio)</a>
+
 Le code de l'application n'est pas disponible.
 
 ## Projet Base de donnée
