@@ -111,6 +111,8 @@ Ce projet en binôme consistait à choisir une distribution Linux et utiliser un
 
 <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20administration%20syst%C3%A8me/2.3%20Installation%20de%20service%20r%C3%A9seaux">Lien vers le dépot (dossier portfolio)</a>
 
+Le lien du site n'est pas disponible
+
 ## Projet Gestion de projet
-## Travail d'équipe
+## Projet Travail d'équipe
 - (En cours d'amélioration)
