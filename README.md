@@ -70,13 +70,13 @@ Le code de l'application n'est pas disponible.
 
 Ce projet en bînome consistait à créer, modéliser et remplir une base de donnée avec un bon de commande fournie. Il était demandé plusieurs schémas et scripts (voir fiche du projet) et nous devions également y présenter des requêtes.
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/2.01%20-%202.5%20D%C3%A9veloppement%20d'application">Lien vers le dépot (fiche du projet)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/1.4%20Base%20de%20donn%C3%A9e">Lien vers le dépot (fiche du projet)</a>
 
 <b>Projet 2.04 Exploitation d'une base de donnée</b>
 
 Ce projet en bînome consitait à exploiter une base de donnée fournie. Ce projet à été divisé en 4 parties distinctes dans lesquelles il fallait rendre à chaque fois des livrables spécifiques (voir fiche du projet).
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20java/2.01%20-%202.5%20D%C3%A9veloppement%20d'application">Lien vers le dépot (fiche du projet)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/2.4%20Exploitation%20d'une%20base%20de%20donn%C3%A9e">Lien vers le dépot (fiche du projet)</a>
 
 ## Projet Dev Web
 <b>Projet 1.06 Environnement écologique</b> 
