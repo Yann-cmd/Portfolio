@@ -50,6 +50,7 @@ Ces projets sont, en quelque sorte, une preuve des mes compétences et ce dépot
 - Pour finir, vous pouvez me contacter sur les différentes plateformes ci-dessous:
 
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/yann-guillevic-876769252/)
+[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:yannguillevic12@gmail.com)
 
 ## Projet java
 <b>Projet 1.01 Implémentation d'un besoin client</b>
