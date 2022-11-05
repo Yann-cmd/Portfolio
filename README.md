@@ -6,6 +6,7 @@
  - [Projet Base de donnée](#Projet-Base-de-donnée)
  - [Projet Dev Web](#Projet-Dev-Web)
  - [Projet Admin Système](#Projet-Admin-Système)
+ - [Projet Exploitation Algorithmique](#Projet-Exploitation-Algorithmique)
  - [Projet Gestion de projet](#Projet-Gestion-de-projet)
  - [Projet Travail d'équipe](#Projet-Travail-d'équipe)
 
@@ -114,6 +115,9 @@ Ce projet en binôme consistait à choisir une distribution Linux et utiliser un
 
 Le lien du site n'est pas disponible
 
+##Projet Exploitation Algorithmique
 ## Projet Gestion de projet
 ## Projet Travail d'équipe
+
+
 - (En cours d'amélioration)
