@@ -49,7 +49,7 @@ Ces projets sont, en quelque sorte, une preuve des mes compétences et ce dépot
 
 
 
-| Quelques statistiques | | |
+| Statistiques  | | |
 | :---: |:---:| :---:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-cmd&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=Yann-cmd&show_icons=true&theme=radical&count_private=true) |
 
