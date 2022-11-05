@@ -123,7 +123,21 @@ Le lien du site n'est pas disponible
 
 ## Projet Exploitation Algorithmique
 ## Projet Gestion de projet
+<b>Projet 1.05 Besoin d'un client</b>
+
+Ce projet, réalisé par groupe de 4, consistait à :
+  - Démarcher une entreprise en lui proposant des services informatiques en fonction des ses besoins
+  - Réaliser plusieurs documents techniques ainsi qu'une maquette du produit voulu
+  - Réaliser un compte rendu écrit ainsi qu'une vidéo
+
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20management_gestion%20de%20projet/1.05%20Etude%20des%20besoins%20d'un%20client">Lien vers le dépot (dossier portfolio)</a>
+
 ## Projet Travail d'équipe
+<b>Projet 2.06 Travail d'équipe</b>
+
+Ce projet en binôme consistait à réaliser un oral présentant rapidement un ancien projet et y décrir précisemment, grâce à un gantt et des exemples, notre représentation du travail d'équipe et la façon dont il s'est matérialisé durant notre précédent projet. Un livrable était également demandé dans lequel nous devions y développer une fiche de notation comprenant plusieurs critères pour évaluer le travail d'équipe dans un groupe.
+
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20de%20travail%20d'%C3%A9quipe/2.06%20Travail%20d'%C3%A9quipe">Lien vers le dépot (dossier portfolio)</a>
 
 
 - (En cours d'amélioration)
