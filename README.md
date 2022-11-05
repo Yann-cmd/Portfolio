@@ -115,7 +115,7 @@ Ce projet en binôme consistait à choisir une distribution Linux et utiliser un
 
 Le lien du site n'est pas disponible
 
-##Projet Exploitation Algorithmique
+## Projet Exploitation Algorithmique
 ## Projet Gestion de projet
 ## Projet Travail d'équipe
 
