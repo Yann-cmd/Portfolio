@@ -1,4 +1,4 @@
-# Mon Portfolio (en cours d'amélioration - opérationnel prévu le 06/11/2022)
+# Mon Portfolio 
 ## Sommaire
 
  - [Présentation](#Présentation)
@@ -140,4 +140,3 @@ Ce projet en binôme consistait à réaliser un oral présentant rapidement un a
 <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20de%20travail%20d'%C3%A9quipe/2.06%20Travail%20d'%C3%A9quipe">Lien vers le dépot (dossier portfolio)</a>
 
 
-- (En cours d'amélioration)
