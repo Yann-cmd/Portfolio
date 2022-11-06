@@ -115,7 +115,7 @@ Ce projet en bînome consistait à :
 
 <b>Projet 2.03 Installation de services réseaux</b>
 
-Ce projet en binôme consistait à choisir une distribution Linux et utiliser un serveur fournie pour installer un service d'hébergement HTTP et y héberger notre site web de la SAE 1.06. 3 mission devaient être réalisées et 2 livrables devaient être fournis. La troisème mission nous à mobiliser des compétences en anglais (voir dossier portfolio).
+Ce projet en binôme consistait à choisir une distribution Linux et utiliser un serveur fournie pour installer un service d'hébergement HTTP et y héberger notre site web de la SAE 1.06. 3 missions devaient être réalisées et 2 livrables devaient être fournis. La troisème mission nous à mobiliser des compétences en anglais (voir dossier portfolio).
 
 <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20administration%20syst%C3%A8me/2.3%20Installation%20de%20service%20r%C3%A9seaux">Lien vers le dépot (dossier portfolio)</a>
 
