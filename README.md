@@ -122,6 +122,19 @@ Ce projet en binôme consistait à choisir une distribution Linux et utiliser un
 Le lien du site n'est pas disponible
 
 ## Projet Exploitation Algorithmique
+<b>Projet 1.02 Comparaison d'approche algorithmique</b>
+
+Ce projet en binôme consistait à coder trois algorithmes de tri (sans rupture, avec rupture, dichotomie) en java permettant le triage d'une liste d'élève fournie. Nous devions également en extraire les résultats et commenter/comparer les algorithmes pour déterminer celui étant le plus efficace en programmant des tests. Le résultat de nos analyses devait figurer sur un compte rendu explicant notre démarche global et ainsi répondre à la demande du meilleur algorithme.
+
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Exploitation%20algorithmique/1.02%20Comparaison%20d'approche%20algorithmique">Lien vers le dépot (dossier portfolio)</a>
+
+<b>Projet 2.02 Efficacité algorithmique</b>
+
+Ce projet individuel consistait, pour chaque étudiant, de développer un ou plusieurs algorithmes répondant tous à une même demande. Nous pouvions les développer en java, python ou C. Le but premier était d'essayer de coder des algorithmes étant les plus efficaces et/ou les plus simples et/ou les plus sobres et rendant tous le même resultat. La deuxième partie de ce projet consistait à évaluer une dizaine de code aléatoire provenant de nos camarades sur des critères spécifiques (voir dossier portfolio) et de faire un classement global sur un compte rendu.
+
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Exploitation%20algorithmique/2.02%20Efficacit%C3%A9%20algorithmique">Lien vers le dépot (dossier portfolio)</a>
+
+
 ## Projet Gestion de projet
 <b>Projet 1.05 Besoin d'un client</b>
 
