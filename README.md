@@ -9,7 +9,7 @@
  - [Projet Exploitation Algorithmique](#Projet-Exploitation-Algorithmique)
  - [Projet Gestion de projet](#Projet-Gestion-de-projet)
  - [Projet Travail d'équipe](#Projet-Travail-déquipe)
- - [Projet Global 3.01](#Projet-3.01)
+ - [Projet Global 3.01](#Projet-Global-3.01)
 
 ## Présentation
 - Bonjour, je m'appelle yann guillevic, je suis en deuxième année de B.U.T informatique à l'IUT de Blagnac et voici mon dépot portfolio avec l'ensemble des mes projets ainsi que mon CV ! 
@@ -153,6 +153,6 @@ Ce projet en binôme consistait à réaliser un oral présentant rapidement un a
 
 <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20de%20travail%20d'%C3%A9quipe/2.06%20Travail%20d'%C3%A9quipe">Lien vers le dépot (dossier portfolio)</a>
 
-## Projet 3.01
+## Projet Global 3.01
 
 
