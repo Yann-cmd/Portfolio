@@ -163,7 +163,18 @@ Ce projet, réalisé en groupe de 4 ou 5, est un projet global intervenant dans 
  - La gestion de projet
  - Le travail d'équipe
 
-Nous avions
+Le projet s'est déroulé en 2 partie.
+
+Premièrement, nous avons imaginé et crée une entreprise fictive avec la description de son histoire et de ses produits pour y faire la demande de réalisation d'un site d'E-commerce en lien avec les produits. Ce procédé a été expliqué et rédigé dans une appel d'offre. Chaque groupe a réalisé sa propre appel d'offre et des réunions mélangeant MOE et MOA de chaque équipe nous ont permis de choisir quel projet de site nous aimerions réaliser. Une fois que chaque groupe avait son sujet de site, nous avons pû coder le site d'E-commerce en PHP, HTML, CSS et parfois avec un peu de JavaScript.
+Nous avons également dû réaliser une base de donnée en SQL de A à Z pour y stocker les données que nous trouvions essentielles pour notre site.
+
+Deuxièmement, nous avons dû réaliser une application Java ainsi qu'un programme python permettant le relevé et l'affichage de donnée de capteur. Ces capteurs se trouvaient dans un entrepôt fictif stockant les produits du site que nous codions. Le but de cette application était que l'utilisateur pouvait voir l'évolution des différentes données des capteurs (température, CO2, humidité, ...) sur des graphiques.
+
+Le programme python récupérait les données des capteurs et les écrivaient dans un fichier. Le programme Java lisait ce fichier et affichait les données lues dans  différents graphiques de notre choix. Le programme python était également relié à un fichier de configuration paramétrable depuis le Java, qui permettait au python de se connecter aux serveurs et aux capteurs.
+
+Tout au long du projet, des livrables étaient attendus dans les différentes matières (Web, SQL, communication). Egalement, la méthode de gestion de projet Scrum était imposée et nous devions rédiger de nombreuses documentations techniques ou utilisateur.
+
+Au niveau de la communication, des comptes rendues de reunion et diverses documentation était également attendues chaque semaine pour expliquer notre façon de travailler en équipe ainsi que le travail réalisé chaque semaine par chaque personne.
 
 Pour accéder au dépot de ce projet, vous pouvez aller <a href="https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-5"> ici</a>
 
