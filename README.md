@@ -112,7 +112,7 @@ Ce projet en bînome consistait à :
   - Répondre aux exigences demandées sur l'utilisation de logiciel
   - Réaliser un oral explicatif et présenter un script réalisant une tâche demandé (voir dossier portfolio)
   
- <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20administration%20syst%C3%A8me/1.3%20Machine%20virtuelle%20Linux">Lien vers le dépot (dossier portfolio)</a>
+ <a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20administration%20syst%C3%A8me/1.03%20Machine%20virtuelle%20Linux">Lien vers le dépot (dossier portfolio)</a>
 
 <b>Projet 2.03 Installation de services réseaux</b>
 
