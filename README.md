@@ -80,13 +80,13 @@ Le code de l'application n'est pas disponible.
 
 Ce projet en binôme consistait à créer, modéliser et remplir une base de donnée avec un bon de commande fournie. Il était demandé plusieurs schémas et scripts (voir dossier portfolio du projet) et nous devions également y présenter des requêtes.
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/1.4%20Base%20de%20donn%C3%A9e">Lien vers le dépot (dossier portfolio)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/1.04%20Base%20de%20donn%C3%A9e">Lien vers le dépot (dossier portfolio)</a>
 
 <b>Projet 2.04 Exploitation d'une base de donnée</b>
 
 Ce projet en binôme consitait à exploiter une base de donnée fournie. Ce projet à été divisé en 4 parties distinctes dans lesquelles il fallait rendre à chaque fois des livrables spécifiques (voir dossier portfolio du projet).
 
-<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/2.4%20Exploitation%20d'une%20base%20de%20donn%C3%A9e">Lien vers le dépot (dossier portfolio)</a>
+<a href="https://github.com/Yann-cmd/Portfolio/tree/main/Projet%20Base%20de%20donn%C3%A9e/2.04%20Exploitation%20d'une%20base%20de%20donn%C3%A9e">Lien vers le dépot (dossier portfolio)</a>
 
 ## Projet Dev Web
 <b>Projet 1.06 Environnement écologique</b> 
